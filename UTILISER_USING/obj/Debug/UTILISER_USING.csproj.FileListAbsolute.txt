@@ -1,0 +1,6 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\UTILISER_USING\bin\Debug\UTILISER_USING.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\UTILISER_USING\bin\Debug\UTILISER_USING.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\UTILISER_USING\bin\Debug\UTILISER_USING.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\UTILISER_USING\obj\Debug\UTILISER_USING.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\UTILISER_USING\obj\Debug\UTILISER_USING.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\UTILISER_USING\obj\Debug\UTILISER_USING.pdb

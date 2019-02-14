@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\bin\Debug\Reference.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\bin\Debug\Reference.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\bin\Debug\Reference.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\obj\Debug\REFERENCER.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\obj\Debug\REFERENCER.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\obj\Debug\Reference.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Reference\obj\Debug\Reference.pdb

@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\bin\Debug\EXTENSION_METHODE.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\bin\Debug\EXTENSION_METHODE.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\bin\Debug\EXTENSION_METHODE.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\obj\Debug\EXTENSION_METHODE.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\obj\Debug\EXTENSION_METHODE.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\obj\Debug\EXTENSION_METHODE.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSION_METHODE\obj\Debug\EXTENSION_METHODE.csprojAssemblyReference.cache

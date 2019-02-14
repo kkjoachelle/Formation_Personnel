@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\bin\Debug\EXTENSIBILITY.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\bin\Debug\EXTENSIBILITY.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\bin\Debug\EXTENSIBILITY.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\obj\Debug\EXTENSIBILITY.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\obj\Debug\EXTENSIBILITY.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\obj\Debug\EXTENSIBILITY.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\EXTENSIBILITY\obj\Debug\EXTENSIBILITY.pdb

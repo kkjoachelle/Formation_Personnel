@@ -1,0 +1,6 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\FIELDS\bin\Debug\FIELDS.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\FIELDS\bin\Debug\FIELDS.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\FIELDS\bin\Debug\FIELDS.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\FIELDS\obj\Debug\FIELDS.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\FIELDS\obj\Debug\FIELDS.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\FIELDS\obj\Debug\FIELDS.pdb

@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\bin\Debug\DELEGATES_ESSAI.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\bin\Debug\DELEGATES_ESSAI.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\bin\Debug\DELEGATES_ESSAI.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\obj\Debug\DELEGATES_ESSAI.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\obj\Debug\DELEGATES_ESSAI.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\obj\Debug\DELEGATES_ESSAI.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATES_ESSAI\obj\Debug\DELEGATES_ESSAI.pdb

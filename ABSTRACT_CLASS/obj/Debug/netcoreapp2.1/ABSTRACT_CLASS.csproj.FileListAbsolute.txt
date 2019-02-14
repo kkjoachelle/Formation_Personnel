@@ -1,0 +1,11 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\bin\Debug\netcoreapp2.1\ABSTRACT_CLASS.deps.json
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\bin\Debug\netcoreapp2.1\ABSTRACT_CLASS.runtimeconfig.json
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\bin\Debug\netcoreapp2.1\ABSTRACT_CLASS.runtimeconfig.dev.json
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\bin\Debug\netcoreapp2.1\ABSTRACT_CLASS.dll
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\bin\Debug\netcoreapp2.1\ABSTRACT_CLASS.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\obj\Debug\netcoreapp2.1\ABSTRACT_CLASS.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\obj\Debug\netcoreapp2.1\ABSTRACT_CLASS.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\obj\Debug\netcoreapp2.1\ABSTRACT_CLASS.AssemblyInfoInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\obj\Debug\netcoreapp2.1\ABSTRACT_CLASS.AssemblyInfo.cs
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\obj\Debug\netcoreapp2.1\ABSTRACT_CLASS.dll
+C:\Users\KOFFI\source\repos\Formation_Personnel\ABSTRACT_CLASS\obj\Debug\netcoreapp2.1\ABSTRACT_CLASS.pdb

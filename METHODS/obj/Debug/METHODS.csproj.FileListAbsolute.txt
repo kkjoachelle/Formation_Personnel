@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\bin\Debug\METHODS.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\bin\Debug\METHODS.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\bin\Debug\METHODS.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\obj\Debug\METHODS.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\obj\Debug\METHODS.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\obj\Debug\METHODS.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\METHODS\obj\Debug\METHODS.csprojAssemblyReference.cache

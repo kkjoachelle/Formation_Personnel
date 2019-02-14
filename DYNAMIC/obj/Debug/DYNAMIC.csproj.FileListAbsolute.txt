@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\bin\Debug\DYNAMIC.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\bin\Debug\DYNAMIC.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\bin\Debug\DYNAMIC.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\obj\Debug\DYNAMIC.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\obj\Debug\DYNAMIC.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\obj\Debug\DYNAMIC.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\DYNAMIC\obj\Debug\DYNAMIC.pdb

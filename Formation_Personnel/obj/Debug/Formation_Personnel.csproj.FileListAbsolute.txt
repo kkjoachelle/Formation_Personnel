@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\bin\Debug\Formation_Personnel.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\bin\Debug\Formation_Personnel.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\bin\Debug\Formation_Personnel.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\obj\Debug\Formation_Personnel.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\obj\Debug\Formation_Personnel.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\obj\Debug\Formation_Personnel.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Formation_Personnel\obj\Debug\Formation_Personnel.pdb

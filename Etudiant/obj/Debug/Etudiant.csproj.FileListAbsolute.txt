@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\bin\Debug\Etudiant.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\bin\Debug\Etudiant.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\bin\Debug\Etudiant.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\obj\Debug\Etudiant.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\obj\Debug\Etudiant.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\obj\Debug\Etudiant.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Etudiant\obj\Debug\Etudiant.pdb

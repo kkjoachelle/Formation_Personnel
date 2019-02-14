@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\bin\Debug\QUIZ.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\bin\Debug\QUIZ.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\bin\Debug\QUIZ.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\obj\Debug\QUIZ.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\obj\Debug\QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\obj\Debug\QUIZ.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\QUIZ\obj\Debug\QUIZ.pdb

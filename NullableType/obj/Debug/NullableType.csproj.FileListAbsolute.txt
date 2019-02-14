@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\bin\Debug\NullableType.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\bin\Debug\NullableType.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\bin\Debug\NullableType.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\obj\Debug\NullableType.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\obj\Debug\NullableType.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\obj\Debug\NullableType.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\NullableType\obj\Debug\NullableType.pdb

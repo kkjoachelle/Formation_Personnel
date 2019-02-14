@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\obj\Debug\AccessModifiers.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache

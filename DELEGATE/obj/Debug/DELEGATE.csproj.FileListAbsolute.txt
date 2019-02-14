@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\bin\Debug\DELEGATE.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\bin\Debug\DELEGATE.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\bin\Debug\DELEGATE.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\obj\Debug\DELEGATE.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\obj\Debug\DELEGATE.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\obj\Debug\DELEGATE.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\DELEGATE\obj\Debug\DELEGATE.pdb

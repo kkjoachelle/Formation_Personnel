@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\bin\Debug\EVENTandDELEGATE.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\bin\Debug\EVENTandDELEGATE.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\bin\Debug\EVENTandDELEGATE.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\obj\Debug\EVENTandDELEGATE.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\obj\Debug\EVENTandDELEGATE.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\obj\Debug\EVENTandDELEGATE.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\EVENTandDELEGATE\obj\Debug\EVENTandDELEGATE.pdb

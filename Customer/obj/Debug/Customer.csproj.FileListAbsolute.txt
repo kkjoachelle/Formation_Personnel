@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\bin\Debug\Customer.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\bin\Debug\Customer.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\bin\Debug\Customer.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\obj\Debug\Customer.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\obj\Debug\Customer.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\Customer\obj\Debug\Customer.csprojAssemblyReference.cache

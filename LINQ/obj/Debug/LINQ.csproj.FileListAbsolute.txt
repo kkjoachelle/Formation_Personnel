@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\bin\Debug\LINQ.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\bin\Debug\LINQ.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\obj\Debug\LINQ.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\LINQ\obj\Debug\LINQ.pdb

@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\bin\Debug\PARAMS.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\bin\Debug\PARAMS.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\bin\Debug\PARAMS.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\obj\Debug\PARAMS.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\obj\Debug\PARAMS.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\obj\Debug\PARAMS.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\PARAMS\obj\Debug\PARAMS.pdb

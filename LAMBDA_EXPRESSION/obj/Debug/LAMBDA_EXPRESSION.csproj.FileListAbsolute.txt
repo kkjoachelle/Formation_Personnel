@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\bin\Debug\LAMBDA_EXPRESSION.exe.config
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\bin\Debug\LAMBDA_EXPRESSION.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\bin\Debug\LAMBDA_EXPRESSION.pdb
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\obj\Debug\LAMBDA_EXPRESSION.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\obj\Debug\LAMBDA_EXPRESSION.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\obj\Debug\LAMBDA_EXPRESSION.exe
+C:\Users\KOFFI\source\repos\Formation_Personnel\LAMBDA_EXPRESSION\obj\Debug\LAMBDA_EXPRESSION.pdb
